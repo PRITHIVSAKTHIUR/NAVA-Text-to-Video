@@ -4,6 +4,9 @@ NAVA-Text-to-Video is a sophisticated, experimental audio-visual generation fram
 
 The suite is engineered for precision, featuring an integrated **Prompt Rewriter** based on Qwen3-4B that translates simple user inputs into dense, cinematic Chinese captions optimized for the NAVA backbone. With support for multi-speaker reference conditioning (ReDimNet) and high-resolution spatial output (up to 1280x704), NAVA-Text-to-Video represents a frontier in coherent, multi-modal generative AI.
 
+> [!NOTE]
+> This demo is experimental. More stable updates will be coming soon.
+
 ---
 
 https://github.com/user-attachments/assets/d32b99b5-853b-4366-a80c-481272097c79
