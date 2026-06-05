@@ -6,13 +6,9 @@ The suite is engineered for precision, featuring an integrated **Prompt Rewriter
 
 ---
 
-
-
 https://github.com/user-attachments/assets/d32b99b5-853b-4366-a80c-481272097c79
 
-
-
-<img width="1919" height="1154" alt="image" src="https://github.com/user-attachments/assets/d88e62a1-12b7-4fdb-ae15-7fc14d2bfb28" />
+<img width="1789" height="1455" alt="image (1)" src="https://github.com/user-attachments/assets/6df7e96a-ace6-437e-acb0-5e59893f0355" />
 
 ---
 
