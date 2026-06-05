@@ -1,4 +1,4 @@
-# **NAVA-Text-to-Video [HF-Spaces](https://huggingface.co/spaces/prithivMLmods/NAVA-Text-to-Video)**
+# **NAVA-Text-to-Video -> [HF-Spaces](https://huggingface.co/spaces/prithivMLmods/NAVA-Text-to-Video)**
 
 NAVA-Text-to-Video is a sophisticated, experimental audio-visual generation framework powered by **Native Audio-Visual Alignment (NAVA)**. Unlike traditional video generation pipelines that treat audio as a post-processing afterthought, NAVA utilizes a 6.3B parameter architecture to generate synchronized video and high-fidelity audio concurrently within a single unified diffusion process. This application provides a comprehensive web-based interface for end-to-end multimedia creation, supporting complex Text-to-Audio-Video (T2AV) and Image-to-Audio-Video (I2AV) workflows.
 
